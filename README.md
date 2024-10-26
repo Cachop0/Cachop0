@@ -12,12 +12,12 @@
 - 💬Trabajo en varios servidores de Scene de consolas como soporte de 3DS:
 -  •🎮La Presa
 -  •💙🇭Homebrew Central
-- 👨‍💻Todo lo que programo o escribo es para Dev Crews, de Homebrew Central
+- 👨‍💻Todo lo que programo o escribo es para Devw Crew, de Homebrew Central
 - ⚠️ Estoy aprendiendo y puedo cometer errores. Todo lo que subo será comprobado en profundidad, pero es algo a tener en cuenta. Si encuentras algún error, fallo o bug, por favor reportalo o contactame inmediatamente
 
 - 🎮La Presa:
 - 💙🇭Homebrew Central:
-- 👩‍💻Dev Crews: https://github.com/hbcentral-dev-crews
+- 👩‍💻Devs Crew: https://github.com/hbcentral-devs-crew
  <!---
 Cachop0/Cachop0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
