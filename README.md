@@ -15,8 +15,8 @@
 - 👨‍💻Todo lo que programo o escribo es para Devs Crew, de Homebrew Central
 - ⚠️ Estoy aprendiendo y puedo cometer errores. Todo lo que subo será comprobado en profundidad, pero es algo a tener en cuenta. Si encuentras algún error, fallo o bug, por favor reportalo o contactame inmediatamente
 
-- 🎮La Presa:
-- 💙🇭Homebrew Central: https://www.hbcentral.space/inicio
+- 🎮La Presa: https://discord.com/invite/6Gqtnkj
+- 💙🇭Homebrew Central: https://discord.gg/m4Mrg2Z7qU https://www.hbcentral.space/inicio
 - 👩‍💻Devs Crew: https://github.com/hbcentral-devs-crew
 
  <!---
